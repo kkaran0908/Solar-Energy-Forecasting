@@ -6,6 +6,6 @@ Time series models are used for univariate analysis of the data, and these model
 If time series model such as AR, MA, ARMA, ARIMA performs well then more advance method such as RNN, LSTM, etc should also perform well.
 
 ## Order of Time Series
-Moving Average : ARMA(0, 3)
-ARMA : ARMA(8, 6)
-ARIMA : ARIMA(5, 1, 4)
+1. Moving Average : ARMA(0, 3)
+2. ARMA : ARMA(8, 6)
+3. ARIMA : ARIMA(5, 1, 4)
